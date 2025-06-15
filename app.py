@@ -71,7 +71,7 @@ def main():
 
     st.title('Cafe Recommendation System')
 
-    st.sidebar.image("img_1.png", use_column_width=True)
+    st.sidebar.image("sidebar_icon.jpg", use_column_width=True)
 
     st.sidebar.markdown("---")
     # Sidebar for user input
